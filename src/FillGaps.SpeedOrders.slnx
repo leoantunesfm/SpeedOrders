@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="FillGaps.SpeedOrders.Api/FillGaps.SpeedOrders.Api.csproj" />
+  <Project Path="FillGaps.SpeedOrders.Application/FillGaps.SpeedOrders.Application.csproj" />
+  <Project Path="FillGaps.SpeedOrders.Domain/FillGaps.SpeedOrders.Domain.csproj" />
+  <Project Path="FillGaps.SpeedOrders.Infrastructure/FillGaps.SpeedOrders.Infrastructure.csproj" />
+  <Project Path="FillGaps.SpeedOrders.Worker/FillGaps.SpeedOrders.Worker.csproj" />
+</Solution>

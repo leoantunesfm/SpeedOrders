@@ -1,0 +1,11 @@
+C:\Users\leoan\OneDrive\Documents\Education\Programação\Repository\SpeedOrders\src\FillGaps.SpeedOrders.Domain\bin\Debug\net10.0\FillGaps.SpeedOrders.Domain.deps.json
+C:\Users\leoan\OneDrive\Documents\Education\Programação\Repository\SpeedOrders\src\FillGaps.SpeedOrders.Domain\bin\Debug\net10.0\FillGaps.SpeedOrders.Domain.dll
+C:\Users\leoan\OneDrive\Documents\Education\Programação\Repository\SpeedOrders\src\FillGaps.SpeedOrders.Domain\bin\Debug\net10.0\FillGaps.SpeedOrders.Domain.pdb
+C:\Users\leoan\OneDrive\Documents\Education\Programação\Repository\SpeedOrders\src\FillGaps.SpeedOrders.Domain\obj\Debug\net10.0\FillGaps.SpeedOrders.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoan\OneDrive\Documents\Education\Programação\Repository\SpeedOrders\src\FillGaps.SpeedOrders.Domain\obj\Debug\net10.0\FillGaps.SpeedOrders.Domain.AssemblyInfoInputs.cache
+C:\Users\leoan\OneDrive\Documents\Education\Programação\Repository\SpeedOrders\src\FillGaps.SpeedOrders.Domain\obj\Debug\net10.0\FillGaps.SpeedOrders.Domain.AssemblyInfo.cs
+C:\Users\leoan\OneDrive\Documents\Education\Programação\Repository\SpeedOrders\src\FillGaps.SpeedOrders.Domain\obj\Debug\net10.0\FillGaps.SpeedOrders.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leoan\OneDrive\Documents\Education\Programação\Repository\SpeedOrders\src\FillGaps.SpeedOrders.Domain\obj\Debug\net10.0\FillGaps.SpeedOrders.Domain.dll
+C:\Users\leoan\OneDrive\Documents\Education\Programação\Repository\SpeedOrders\src\FillGaps.SpeedOrders.Domain\obj\Debug\net10.0\refint\FillGaps.SpeedOrders.Domain.dll
+C:\Users\leoan\OneDrive\Documents\Education\Programação\Repository\SpeedOrders\src\FillGaps.SpeedOrders.Domain\obj\Debug\net10.0\FillGaps.SpeedOrders.Domain.pdb
+C:\Users\leoan\OneDrive\Documents\Education\Programação\Repository\SpeedOrders\src\FillGaps.SpeedOrders.Domain\obj\Debug\net10.0\ref\FillGaps.SpeedOrders.Domain.dll

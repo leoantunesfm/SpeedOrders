@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>dotnet-FillGaps.SpeedOrders.Worker-746585d8-5578-48b6-8213-16a10c80c94f</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FillGaps.SpeedOrders.Infrastructure\FillGaps.SpeedOrders.Infrastructure.csproj" />
+    <ProjectReference Include="..\FillGaps.SpeedOrders.Domain\FillGaps.SpeedOrders.Domain.csproj" />
+    <ProjectReference Include="..\FillGaps.SpeedOrders.Application\FillGaps.SpeedOrders.Application.csproj" />
+  </ItemGroup>
+</Project>
