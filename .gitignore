@@ -1,0 +1,48 @@
+# ==========================================
+# Compilação e Build do .NET
+# ==========================================
+[Bb]in/
+[Oo]bj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.nupkg
+*.suo
+*.user
+
+# Diretórios de publicação e testes
+publish/
+out/
+TestResults/
+
+# ==========================================
+# VS Code e IDEs
+# ==========================================
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.vs/
+.idea/
+
+# ==========================================
+# Logs e Arquivos do Sistema Operacional
+# ==========================================
+*.log
+.DS_Store
+Thumbs.db
+
+# ==========================================
+# Dados Locais do Docker (Volumes)
+# ==========================================
+# Impede que pastas criadas para persistir o banco e kafka localmente subam para o Git
+sqlserver_data/
+kafka_data/
+
+# ==========================================
+# Configurações Locais
+# ==========================================
+# Caso você crie um appsettings com senhas exclusivas da sua máquina
+appsettings.Local.json
